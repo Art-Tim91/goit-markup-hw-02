@@ -24,6 +24,7 @@
     list-style: none;
 }
 
+
 /* --------Logo--------- */
 .logo-main {
     color: var(--accent-color);
@@ -83,8 +84,17 @@ color: #ffffff;
        
 }
 
+
 .title {
   color: #ffffff;
+  font-family: 'Roboto';
+font-style: normal;
+font-weight: 900;
+font-size: 40px;
+line-height: 60px;
+text-align: center;
+letter-spacing: 0.06em;
+text-transform: uppercase;
   
 }
 
